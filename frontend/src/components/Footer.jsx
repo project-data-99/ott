@@ -88,7 +88,7 @@ const Footer = () => {
   return (
     <footer className="section-lg">
       <div className="container">
-        <div className="grid grid-cols-4 gap-5">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
           <div className="col">
             <h6 className="text-lg font-medium text-light mb-5">Question?</h6>
             <ul>
